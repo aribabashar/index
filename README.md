@@ -8,3 +8,4 @@
 - 🌱 I currently work as a Graphics Lead at **GDSC-AMU**.
 - 🧩 I also work as an intern with **Future Ready Talent (Microsoft)**.
 
+
