@@ -1,5 +1,5 @@
-# Hi 👋
-# I’m @aribabashar ✨
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+# I am Ariba Bashar :sparkles:
 
 ### I am an articulate, creative and quick thinker.
 
