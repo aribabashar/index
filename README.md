@@ -5,4 +5,4 @@
 
 - 💻 I'm a Computer Science undergrad.
 - 👀 I’m interested in WEB Development and Designing.
-- 🌱 I currently work as a Graphics Lead at **GDSC-AMU**.
+- 🌱 I currently work the GoogleDSC Lead at **GDSC-AMU**.
