@@ -5,6 +5,6 @@ I'm a Computer Science undergrad at Aligarh Muslim University. Being a technolog
 
 ## Currently I'm upto:point_down:
 
-- 👀 I’m interested in WEB Development and Designing.
+- 👀 I’m interested in Web Development and Designing.
 - 🌱 I currently serve as the GoogleDSC Lead at **[GDSC-AMU](https://gdsc.community.dev/aligarh-muslim-university/)**.
 - 💬 Would love to talk about Different Tech, New ideas and Best coding practices.
