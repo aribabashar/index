@@ -3,7 +3,7 @@
 
 I'm a Computer Science undergrad. Being a technology-enthusiast, I love exploring new technologies and leveraging them to solve real-life problems. I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 
-## Currently I'm upto:point_down:
+## Currently I'm upto:
 
 - 👀 I’m interested in Web Development and Designing.
 - 🌱 I currently serve as a Web Developer at **eSparta Outsourcing LLC.**.
