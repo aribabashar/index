@@ -8,3 +8,16 @@ I am Developer turned Designer. I have a keen eye for detail and a knack for tra
 - 👀 I’m interested in UI/UX Designing and Product Management.
 - 🌱 I currently work as a Freelance UI/UX Specialist 
 - 💬 Would love to talk about Different Tech, New ideas and Best coding practices.
+
+- ![Profile Views](https://komarev.com/ghpvc/?username=aribabashar&color=blue)
+
+- ### Connect with Me 🌐
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ariba-bashar/)
+
+---
+
+### GitHub Stats 📊
+
+![Ariba's's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aribabashar&show_icons=true&theme=radical)
+---
